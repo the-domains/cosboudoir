@@ -1,20 +1,8 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0
-  brandStrength: 0.02473684
-  lightness: 0.8619764
-  rhythmicContrast: 0.4495167
-typography_spectrum: 0.6815252
 layout_spectrum: 0.4645543
+color:
+  saturation: 0.7481203
+  brandStrength: 0.02473684
+  lightness: 0.2422127
+  rhythmicContrast: 0.06820623
+typography_spectrum: 0.6815252
 name: Cosboudoir
